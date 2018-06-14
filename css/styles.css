@@ -89,3 +89,11 @@ text-align: center;
 #boxes .box img{
 	width: 90px;
 }
+footer{
+	padding:20px;
+	margin-top: 20px;
+	color: #ffffff;
+	background-color: #a8491d;
+	text-align: center;
+
+}
