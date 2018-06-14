@@ -63,5 +63,29 @@ color: #ffffff;
 #newsletter{
 	padding: 15px;
 	color: #ffffff;
-	background:#354242a; 
+	background:#35424a; 
+}
+#newsletter h1{
+	float: left;
+}
+#newsletter form{
+	float: right;
+	margin-top: 15px;
+}
+.button1 {
+	height: 38px;
+	border:0;
+	background:#a8491d;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: #ffffff; 
+}
+#boxes .box{
+float: left;
+width: 30%;
+padding:10px;
+text-align: center; 
+}
+#boxes .box img{
+	width: 90px;
 }
