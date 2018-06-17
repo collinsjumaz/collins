@@ -47,7 +47,7 @@ header .highlight, header .current a {
 	font-weight: bold;
 }
 header a:hover{
-	color: #cccccc;
+	color: lime;
 	font-weight: bold;
 }
 #showcase{
