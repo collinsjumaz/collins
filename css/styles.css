@@ -11,7 +11,7 @@ body {
 }
 
 header {
-	background-color: #35422a;
+	background-color:#411c69;
 	color: #ffffff;
 	padding-top: 30px;
 	min-height: 70px;
@@ -84,7 +84,6 @@ color: #ffffff;
 	padding: 15px;
 	background:#612c13;
 	color: #ffffff;
-	margin-top: 10px;
 	margin-bottom: 10px; 
 }
 #boxes .box{
@@ -93,6 +92,7 @@ width: 30%;
 padding:10px;
 text-align: center; 
 }
+
 #boxes .box img{
 	width: 90px;
 }
