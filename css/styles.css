@@ -53,9 +53,10 @@ header a:hover{
 #showcase{
 	min-height: 400px;
 	/*background: url('../img/show.jpg') no repeat 0 -400px ;*/
-	background: url(../img/show.jpg) no-repeat;
+	background: url(../img/show1.jpg) no-repeat ;
+	background-size: 100% 100%;
 text-align: center;
-color: #ffffff; 
+color: lime; 
 }
  #showcase p{
  	font-size: 20px;
